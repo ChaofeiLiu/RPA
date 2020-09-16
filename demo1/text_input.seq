@@ -1,0 +1,210 @@
+{
+    "LineList": [
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091702470364538/EPin_Flow_In",
+                "Px": "2400",
+                "Py": "2440"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020091702460946937/EPin_Flow_Out",
+                "Px": "2352",
+                "Py": "2440"
+            },
+            "LineTag": "2020091702470602443",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091702471776644/EPin_Flow_In",
+                "Px": "2601",
+                "Py": "2440"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020091702470364538/EPin_Flow_Out",
+                "Px": "2544",
+                "Py": "2440"
+            },
+            "LineTag": "2020091702471936645",
+            "LineType": 0
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091702471776644/EPin_Flow_Out",
+                "Px": "2745",
+                "Py": "2440"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020091703023316894/EPin_Flow_In",
+                "Px": "2799",
+                "Py": "2440"
+            },
+            "LineTag": "2020091703023433895",
+            "LineType": 0
+        }
+    ],
+    "NodeList": [
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": "",
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2198",
+                "NodePy": "2425",
+                "NodeSubType": "EnumWidget_Begin",
+                "NodeTag": "2020091702460946937",
+                "NodeTitle": "开始"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EPC_ie_path": "{\n    \"val\": \"J0M6L1Byb2dyYW0gRmlsZXMgKHg4NikvSW50ZXJuZXQgRXhwbG9yZXIvaWV4cGxvcmUuZXhlJw==\"\n}\n",
+                    "EPC_url": "{\n    \"val\": \"J3d3dy5iYWlkdS5jb20n\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2390",
+                "NodePy": "2425",
+                "NodeSubType": "Custom_open03",
+                "NodeTag": "2020091702470364538",
+                "NodeTitle": "网站"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 170,
+                    "mouse_y": 24
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_FIND_PATH": "{\n    \"extvar\": \"W3sic2VsZWN0b3IiOiIja3cifSx7InNlbGVjdG9yIjoiLnNfaXB0In0seyJzZWxlY3RvciI6IklOUFVUW25hbWU9d2RdIn0seyJzZWxlY3RvciI6IklOUFVUW2lkPWt3XVtjbGFzcz1zX2lwdF1bbmFtZT13ZF1bYXV0b2NvbXBsZXRlPW9mZl0ifSx7InNlbGVjdG9yIjoiYm9keSA+IERJVjpudGgtb2YtdHlwZSgxKSA+IERJVjpudGgtb2YtdHlwZSgxKSA+IERJVjpudGgtb2YtdHlwZSg1KSA+IERJVjpudGgtb2YtdHlwZSgxKSA+IERJVjpudGgtb2YtdHlwZSgxKSA+IEZPUk06bnRoLW9mLXR5cGUoMSkgPiBTUEFOOm50aC1vZi10eXBlKDEpID4gSU5QVVQ6bnRoLW9mLXR5cGUoMSkifV0=\",\n    \"val\": \"Jy5zX2lwdCc=\"\n}\n",
+                    "EP_CONTROL_TAG_NAME": "{\n    \"val\": \"J0lOUFVUJw==\"\n}\n",
+                    "EP_CONTROL_TEXT": "{\n    \"val\": \"J1JQQSc=\"\n}\n",
+                    "EP_CONTROL_TITLE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_CONTROL_URL": "{\n    \"val\": \"J2h0dHBzOi8vd3d3LmJhaWR1LmNvbS8n\"\n}\n",
+                    "EP_CONTROL_WINDOW_TITLE": "{\n    \"check\": \"true\",\n    \"val\": \"J+eZvuW6puS4gOS4i++8jOS9oOWwseefpemBkyAtIEludGVybmV0IEV4cGxvcmVyJw==\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_Gen_WAITFOR": "{\n    \"val\": \"MTAwMDA=\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjAwOTE3MDI0NzQxNzUxLmpwZWc=\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2591",
+                "NodePy": "2425",
+                "NodeSubType": "EnumWidget_IE_SetText",
+                "NodeTag": "2020091702471776644",
+                "NodeTitle": "设置文本"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 66,
+                    "mouse_y": 23
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_FIND_PATH": "{\n    \"extvar\": \"W3sic2VsZWN0b3IiOiIjc3UifSx7InNlbGVjdG9yIjoiLmJnIHNfYnRuIn0seyJzZWxlY3RvciI6IklOUFVUW2lkPXN1XVtjbGFzcz1iZyBzX2J0bl1bdHlwZT1zdWJtaXRdIn0seyJzZWxlY3RvciI6ImJvZHkgPiBESVY6bnRoLW9mLXR5cGUoMSkgPiBESVY6bnRoLW9mLXR5cGUoMSkgPiBESVY6bnRoLW9mLXR5cGUoNSkgPiBESVY6bnRoLW9mLXR5cGUoMikgPiBESVY6bnRoLW9mLXR5cGUoMSkgPiBGT1JNOm50aC1vZi10eXBlKDEpID4gU1BBTjpudGgtb2YtdHlwZSgyKSA+IElOUFVUOm50aC1vZi10eXBlKDEpIn1d\",\n    \"val\": \"JyNzdSc=\"\n}\n",
+                    "EP_CONTROL_TAG_NAME": "{\n    \"val\": \"J0lOUFVUJw==\"\n}\n",
+                    "EP_CONTROL_TITLE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_CONTROL_URL": "{\n    \"val\": \"J2h0dHBzOi8vd3d3LmJhaWR1LmNvbS8n\"\n}\n",
+                    "EP_CONTROL_WINDOW_TITLE": "{\n    \"check\": \"true\",\n    \"val\": \"J+eZvuW6puS4gOS4i++8jOS9oOWwseefpemBkyAtIEludGVybmV0IEV4cGxvcmVyJw==\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n",
+                    "EP_Gen_RUN_MODE": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_Gen_WAITFOR": "{\n    \"val\": \"MTAwMDA=\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_INPUT_COMBOX_CONTINUEONERROR": "{\n    \"val\": \"J2JyZWFrJw==\"\n}\n",
+                    "EP_INPUT_MOUSE_CLICK": "{\n    \"val\": \"J2xlZnQn\"\n}\n",
+                    "EP_INPUT_MOUSE_CLICK_TIMES": "{\n    \"val\": \"MQ==\"\n}\n",
+                    "EP_INPUT_POSITION": "{\n    \"val\": \"J2NlbnRlcic=\"\n}\n",
+                    "EP_INPUT_ScrollIntoView": "{\n    \"val\": \"ZmFsc2U=\"\n}\n",
+                    "EP_INPUT_X_OFFSET": "{\n    \"val\": \"\"\n}\n",
+                    "EP_INPUT_Y_OFFSET": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_SNAP_SHOT": {
+                    "EP_SNAP_SHOT_PREVIEW": "{\n    \"val\": \"L3NjcmVlbnNob3RzL3NuYXBzaG90XzIwMjAwOTE3MDMwMzMyNDYyLmpwZWc=\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2789",
+                "NodePy": "2425",
+                "NodeSubType": "EnumWidget_IE_MouseClick",
+                "NodeTag": "2020091703023316894",
+                "NodeTitle": "鼠标点击"
+            }
+        }
+    ],
+    "SeqTag": "text_input",
+    "ViewCenterPx": "2579.17",
+    "ViewCenterPy": "2491.67",
+    "ViewScaling": "1"
+}

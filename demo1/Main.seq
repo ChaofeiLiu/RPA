@@ -1,0 +1,32 @@
+{
+    "LineList": [
+    ],
+    "NodeList": [
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": "",
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2185",
+                "NodePy": "2434",
+                "NodeSubType": "EnumWidget_Begin",
+                "NodeTag": "202009151409265094",
+                "NodeTitle": "开始"
+            }
+        }
+    ],
+    "SeqTag": "Main",
+    "ViewCenterPx": "2137.94",
+    "ViewCenterPy": "2482.42",
+    "ViewScaling": "1"
+}
