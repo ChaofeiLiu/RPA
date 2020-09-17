@@ -1,0 +1,101 @@
+{
+    "LineList": [
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091714340135526/EPin_Flow_In",
+                "Px": "2436",
+                "Py": "2440"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "202009171428506358/EPin_Flow_Out",
+                "Px": "2324",
+                "Py": "2440"
+            },
+            "LineTag": "2020091714442276670",
+            "LineType": 2
+        }
+    ],
+    "NodeList": [
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                    {
+                        "Pin_EnumID": "EPin_Ret1",
+                        "Pin_TVarName": "tvar_2020091714340135727"
+                    }
+                ]
+            },
+            "NodeProperty": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_TIMEOUT": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_CONTROL_TITLE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_NMSGBOX": "[\n    {\n        \"EPin_Par|1\": \"{\\n    \\\"val\\\": \\\"J+aIkOWKnycgKyBleGNlbA==\\\"\\n}\\n\"\n    }\n]\n"
+                }
+            },
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePins": [
+                    {
+                        "Pin_EnumID": "EPin_Par|1",
+                        "Pin_EnumPID": "EP_NMSGBOX",
+                        "Pin_GroupID": "-1",
+                        "Pin_ItemName": "内容",
+                        "Pin_Side": "L",
+                        "Pin_Type": "EPin_Par"
+                    }
+                ],
+                "NodePinsDynamicCount": "0",
+                "NodePx": "2426",
+                "NodePy": "2425",
+                "NodeSubType": "EnumWidget_Win_MsgBox",
+                "NodeTag": "2020091714340135526",
+                "NodeTitle": "消息框"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": "",
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2170",
+                "NodePy": "2425",
+                "NodeSubType": "EnumWidget_Begin",
+                "NodeTag": "202009171428506358",
+                "NodeTitle": "开始"
+            }
+        }
+    ],
+    "SeqTag": "flow2",
+    "ViewCenterPx": "2683",
+    "ViewCenterPy": "2503",
+    "ViewScaling": "1"
+}

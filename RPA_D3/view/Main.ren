@@ -1,0 +1,54 @@
+{
+    "NodeList": [
+        {
+            "NodePh": 30,
+            "NodePro": {
+            },
+            "NodePw": 164,
+            "NodePx": 100,
+            "NodePy": 102,
+            "NodeSubType": "EnumWidget_Begin",
+            "NodeTag": "202009171428449424",
+            "NodeTitle": "开始"
+        },
+        {
+            "NodePh": 54,
+            "NodePro": {
+                "EP_FUN_PARAM": {
+                    "EP_FLOW": "[\n]\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodePw": 164,
+            "NodePx": 292,
+            "NodePy": 102,
+            "NodeSubType": "EnumWidget_Program_subflow",
+            "NodeTag": "2020091714405559957",
+            "NodeTitle": "子流程"
+        },
+        {
+            "NodePh": 78,
+            "NodePro": {
+                "EP_FUN_PARAM": {
+                    "EP_FLOW": "[\n    {\n        \"2020091714311609412\": \"{\\n    \\\"val\\\": \\\"\\\"\\n}\\n\"\n    }\n]\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodePw": 164,
+            "NodePx": 538,
+            "NodePy": 102,
+            "NodeSubType": "EnumWidget_Program_subflow",
+            "NodeTag": "2020091714441293867",
+            "NodeTitle": "子流程"
+        }
+    ],
+    "SeqTag": "Main"
+}

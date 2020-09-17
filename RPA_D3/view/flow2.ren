@@ -1,0 +1,39 @@
+{
+    "NodeList": [
+        {
+            "NodePh": 30,
+            "NodePro": {
+            },
+            "NodePw": 164,
+            "NodePx": 100,
+            "NodePy": 102,
+            "NodeSubType": "EnumWidget_Begin",
+            "NodeTag": "202009171428506358",
+            "NodeTitle": "开始"
+        },
+        {
+            "NodePh": 102,
+            "NodePro": {
+                "EP_CONTROL": {
+                    "EP_CONTROL_TIMEOUT": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_CONTROL_TITLE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                },
+                "EP_INPUT": {
+                    "EP_NMSGBOX": "[\n    {\n        \"EPin_Par|1\": \"{\\n    \\\"val\\\": \\\"J+aIkOWKnycgKyBleGNlbA==\\\"\\n}\\n\"\n    }\n]\n"
+                }
+            },
+            "NodePw": 164,
+            "NodePx": 356,
+            "NodePy": 102,
+            "NodeSubType": "EnumWidget_Win_MsgBox",
+            "NodeTag": "2020091714340135526",
+            "NodeTitle": "消息框"
+        }
+    ],
+    "SeqTag": "flow2"
+}

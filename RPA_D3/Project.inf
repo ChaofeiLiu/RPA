@@ -1,0 +1,22 @@
+{
+    "Cus": {
+        "AppID": "",
+        "EndData": "2120-09-17",
+        "Price": "0.0",
+        "ProClass": "",
+        "ProDesc": "",
+        "ProName": "RPA_D3",
+        "ProVer": "1.0.0.0",
+        "UserID": ""
+    },
+    "Dev": {
+        "Developer": "",
+        "IDEVer": "2020.4.0",
+        "ProDesc": "",
+        "ProEDType": "2",
+        "ProName": "RPA_D3",
+        "ProVer": "1.0.0.0",
+        "RPath": "",
+        "UserID": ""
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "LineList": [
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091714441293867/2020091714311609412",
+                "Px": "2637",
+                "Py": "2482"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020091714405559957/EPin_Ret|1",
+                "Px": "2535",
+                "Py": "2458"
+            },
+            "LineTag": "2020091714441665469",
+            "LineType": 2
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091714441293867/EPin_Flow_In",
+                "Px": "2637",
+                "Py": "2434"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "2020091714405559957/EPin_Flow_Out",
+                "Px": "2535",
+                "Py": "2434"
+            },
+            "LineTag": "2020091714441500668",
+            "LineType": 2
+        },
+        {
+            "LineColor": "255, 255, 255",
+            "LineEnd": {
+                "Pidx": "2020091714405559957/EPin_Flow_In",
+                "Px": "2391",
+                "Py": "2434"
+            },
+            "LineSplit": {
+                "Px": "",
+                "Py": ""
+            },
+            "LineStart": {
+                "Pidx": "202009171428449424/EPin_Flow_Out",
+                "Px": "2343",
+                "Py": "2434"
+            },
+            "LineTag": "2020091714405731858",
+            "LineType": 2
+        }
+    ],
+    "NodeList": [
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_FUN_PARAM": {
+                    "EP_FLOW": "[\n    {\n        \"2020091714311609412\": \"{\\n    \\\"val\\\": \\\"\\\"\\n}\\n\"\n    }\n]\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePTag": "202009171428506167",
+                "NodePx": "2627",
+                "NodePy": "2419",
+                "NodeSubType": "EnumWidget_Program_subflow",
+                "NodeTag": "2020091714441293867",
+                "NodeTitle": "子流程"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": {
+                "EP_FUN_PARAM": {
+                    "EP_FLOW": "[\n]\n"
+                },
+                "EP_Gen": {
+                    "EP_Gen_AFTERDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_BEFOREDELAY": "{\n    \"val\": \"MA==\"\n}\n",
+                    "EP_Gen_NOTE": "{\n    \"val\": \"\"\n}\n"
+                }
+            },
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePTag": "202009171428491685",
+                "NodePx": "2381",
+                "NodePy": "2419",
+                "NodeSubType": "EnumWidget_Program_subflow",
+                "NodeTag": "2020091714405559957",
+                "NodeTitle": "子流程"
+            }
+        },
+        {
+            "NodePanelData": {
+                "ExpandedGroups": [
+                ],
+                "InputProperty": {
+                    "mouse_x": 0,
+                    "mouse_y": 0
+                },
+                "PubProperty": "",
+                "RetPins": [
+                ]
+            },
+            "NodeProperty": "",
+            "NodeUI": {
+                "NodeModel": "2",
+                "NodePx": "2189",
+                "NodePy": "2419",
+                "NodeSubType": "EnumWidget_Begin",
+                "NodeTag": "202009171428449424",
+                "NodeTitle": "开始"
+            }
+        }
+    ],
+    "SeqTag": "Main",
+    "ViewCenterPx": "2679",
+    "ViewCenterPy": "2497",
+    "ViewScaling": "1"
+}
